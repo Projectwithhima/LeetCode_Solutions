@@ -41,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0861-flipping-an-image) |
+## Hash Table
+|  |
+| ------- |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
+## String
+|  |
+| ------- |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
