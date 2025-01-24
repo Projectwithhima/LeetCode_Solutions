@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0898-transpose-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/1505-create-target-array-in-the-given-order) |
+| [1635-number-of-good-pairs](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/2058-concatenation-of-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1635-number-of-good-pairs](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## String
 |  |
@@ -64,4 +66,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1635-number-of-good-pairs](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/1635-number-of-good-pairs) |
+## Math
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
