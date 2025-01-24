@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
+| [0861-flipping-an-image](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0861-flipping-an-image) |
 | [1791-richest-customer-wealth](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/2058-concatenation-of-array) |
@@ -15,11 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
+| [0861-flipping-an-image](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0861-flipping-an-image) |
 | [1791-richest-customer-wealth](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/1791-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
+| [0861-flipping-an-image](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0861-flipping-an-image) |
 | [2048-build-array-from-permutation](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/2058-concatenation-of-array) |
 ## Divide and Conquer
@@ -30,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0861-flipping-an-image) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
