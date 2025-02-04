@@ -78,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/1603-running-sum-of-1d-array) |
+## Database
+|  |
+| ------- |
+| [0610-triangle-judgement](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0610-triangle-judgement) |
 <!---LeetCode Topics End-->
