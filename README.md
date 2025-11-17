@@ -56,12 +56,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0584-find-customer-referee](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0584-find-customer-referee) |
 | [0610-triangle-judgement](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0610-triangle-judgement) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/1908-recyclable-and-low-fat-products) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
