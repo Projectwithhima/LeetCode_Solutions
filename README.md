@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [0861-flipping-an-image](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0861-flipping-an-image) |
@@ -43,12 +44,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0861-flipping-an-image](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0861-flipping-an-image) |
 ## Bit Manipulation
 |  |
@@ -120,4 +123,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
