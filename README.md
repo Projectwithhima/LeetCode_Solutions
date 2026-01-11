@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0861-flipping-an-image](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0861-flipping-an-image) |
 ## Bit Manipulation
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Sorting
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
