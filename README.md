@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0861-flipping-an-image](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0861-flipping-an-image) |
 ## Bit Manipulation
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
