@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0509-fibonacci-number](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0007-reverse-integer) |
+| [0509-fibonacci-number](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/1635-number-of-good-pairs) |
 ## Prefix Sum
 |  |
@@ -147,4 +149,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
