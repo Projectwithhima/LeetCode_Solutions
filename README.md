@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0007-reverse-integer) |
 | [1635-number-of-good-pairs](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/1635-number-of-good-pairs) |
 ## Prefix Sum
 |  |
