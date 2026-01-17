@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1603-running-sum-of-1d-array](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/1791-richest-customer-wealth) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2048-build-array-from-permutation](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/2058-concatenation-of-array) |
 ## Matrix
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0007-reverse-integer) |
 | [0509-fibonacci-number](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/1635-number-of-good-pairs) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Projectwithhima/LeetCode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
